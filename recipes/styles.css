@@ -1,0 +1,18 @@
+body{
+    background-color:rgb(233, 206, 101);
+}
+div {
+    display:block;
+    border:12px;
+    border-color:black;
+    padding:12px;
+}
+.ing{
+    margin-left:100px;
+}
+.step{
+    margin-left:200px;
+}
+p{
+    font-style:italic;
+}
