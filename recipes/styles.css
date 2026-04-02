@@ -1,5 +1,5 @@
 body{
-    background-color:rgb(233, 206, 101);
+    background-color:#e9ce65;
 }
 #content{
     width:50%;
@@ -9,12 +9,7 @@ body{
 }
 h2{
     border:4px solid;
-}
-.ing{
-    
-}
-.step{
-    
+    text-align:center;
 }
 div {
     display:block;
